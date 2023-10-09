@@ -1,0 +1,5 @@
+Myself Yogesh, CSE 2nd year.
+It was a very good experience to learn about Git.
+For the next workshop, we hope to learn about DSA or GSOC.
+
+~~
